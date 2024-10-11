@@ -43,15 +43,14 @@ from utils.calc import *
 
 
 class MyTest(unittest.TestCase):
+
     def test_failed(self):
         """Тест, который провалился"""
         self.assertEqual(add(3, 6), 11)
 
-
     def test_error(self):
         """Тест ошибки"""
         raise ValueError("Неожиданная ошибка")
-
 
     def test_ok(self):
         """Тест, который прошел"""
