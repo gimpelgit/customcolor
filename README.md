@@ -1,4 +1,4 @@
-[**English**](README.md) | [Русский](README-ru.md)
+[**English**](https://github.com/gimpelgit/customcolor/blob/main/README.md) | [Русский](https://github.com/gimpelgit/customcolor/blob/main/README-ru.md)
 
 # Customcolor
 
@@ -14,7 +14,7 @@ If you're not using PyCharm but, for example, an environment like VS Code, you m
 
 ```Customcolor``` is designed for use on Windows and Linux operating systems.
 
-You may also try to use it on macOS, though it hasn't been tested there. If you manage to get it running, let me know — I’d be happy to update this section!
+You may also try to use it on macOS, though it hasn't been tested there. If you manage to get it running, let me know — I'd be happy to update this section!
 
 ## Installation
 
@@ -32,7 +32,7 @@ In essence, all the library does is create a ```ColorTestRunner``` class, which 
 
 Suppose your project has the following structure:
 
-![](img/testproj.png)
+![](https://raw.githubusercontent.com/gimpelgit/customcolor/refs/heads/main/img/testproj.png)
 
 And the file ```test_calc.py``` contains the following code:
 
@@ -81,7 +81,7 @@ python -m tests.test_calc
 
 |   |   |
 |---|---|
-|<img src="img/en-old.png" width="350">|<img src="img/en-new.png" width="350">|
+|<img src="https://raw.githubusercontent.com/gimpelgit/customcolor/refs/heads/main/img/en-old.png" width="350">|<img src="https://raw.githubusercontent.com/gimpelgit/customcolor/refs/heads/main/img/en-new.png" width="350">|
 
 
 ## Additional Features
@@ -118,5 +118,5 @@ color_print("GREEN", color=TextColor.GREEN)
 
 ### Output in cmd
 
-<img src="img/print_func.png" width="130">
+<img src="https://raw.githubusercontent.com/gimpelgit/customcolor/refs/heads/main/img/print_func.png" width="130">
 

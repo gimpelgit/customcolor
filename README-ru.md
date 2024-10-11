@@ -1,4 +1,4 @@
-[English](README.md) | [**Русский**](README-ru.md)
+[English](https://github.com/gimpelgit/customcolor/blob/main/README.md) | [**Русский**](https://github.com/gimpelgit/customcolor/blob/main/README-ru.md)
 
 # Customcolor
 
@@ -31,7 +31,7 @@ pip install customcolor
 
 Допустим ваш проект имеет следующую структуру
 
-![](img/testproj.png)
+![](https://raw.githubusercontent.com/gimpelgit/customcolor/refs/heads/main/img/testproj.png)
 
 А в файле ```test_calc.py``` содержится следующий код
 
@@ -80,7 +80,7 @@ python -m tests.test_calc
 
 |   |   |
 |---|---|
-|<img src="img/ru-old.png" width="350">|<img src="img/ru-new.png" width="350">|
+|<img src="https://raw.githubusercontent.com/gimpelgit/customcolor/refs/heads/main/img/ru-old.png" width="350">|<img src="https://raw.githubusercontent.com/gimpelgit/customcolor/refs/heads/main/img/ru-new.png" width="350">|
 
 
 ## Дополнительно
@@ -117,4 +117,4 @@ color_print("GREEN", color=TextColor.GREEN)
 
 ### Вывод в cmd
 
-<img src="img/print_func.png" width="130">
+<img src="https://raw.githubusercontent.com/gimpelgit/customcolor/refs/heads/main/img/print_func.png" width="130">
